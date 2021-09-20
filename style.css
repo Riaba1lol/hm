@@ -1,0 +1,38 @@
+.body {
+  margin: 0px;
+}
+.a {
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: antiquewhite;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-family: "Roboto Condensed", sans-serif;
+}
+.b {
+  height: 50px;
+}
+.c {
+  display: flex;
+}
+.d {
+  margin-right: 10px;
+  cursor: pointer;
+}
+.d:hover {
+  color: rgb(238, 79, 79);
+  font-size: 20px;
+}
+.a:hover {
+  background-color: beige;
+}
+.e {
+  font-size: 19px;
+  cursor: pointer;
+}
+.e:hover {
+  color: rgb(236, 120, 120);
+  font-size: 30px;
+}
